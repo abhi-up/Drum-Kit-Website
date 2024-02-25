@@ -1,4 +1,4 @@
-# Drum Kit Website
+# Drum Kit Website ✨
 
 This is a simple drum kit website where users can play various drum sounds by pressing corresponding keys on their keyboard or clicking on the drum pads with their mouse.
 
